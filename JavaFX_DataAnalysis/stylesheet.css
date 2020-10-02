@@ -1,0 +1,46 @@
+.custom-button {
+    -fx-font: 16px "Serif";
+    -fx-padding: 10;
+    -fx-border-color: #42f369;
+    -fx-background-color: transparent;
+    -fx-text-fill: #42f369;
+    -fx-border-radius: 12px;
+}
+
+/* .context-menu {
+    -fx-text-fill: #42f369;
+    -fx-background-color: #333333;
+} */
+
+.root{
+    -fx-background-color: #333333;
+}
+
+.title{
+    -fx-text-fill: #42f369;
+    -fx-font-size: 20pt;
+}
+
+.table-title{
+    -fx-text-fill: #42f369;
+    -fx-font-size: 14pt;
+}
+
+.stats-label{
+    -fx-text-fill: #42f369;
+    -fx-font-size: 13pt;
+}
+
+.save{
+    -fx-float: right;
+}
+
+.error{
+    -fx-text-fill:#ff0808;
+    -fx-font-size: 12pt;
+    -fx-alignment: center;
+}
+
+.layout1{
+    /* -fx-alignment: center; */
+}
